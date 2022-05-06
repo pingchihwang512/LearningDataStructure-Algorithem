@@ -11,4 +11,4 @@
 * [OOP APT API](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/3_OOP%20ADT%20API)
 * [Recursion](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/4_Recursion)
 * [Array](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/5_Array)
-* [LinkedList]()
+* [LinkedList]
