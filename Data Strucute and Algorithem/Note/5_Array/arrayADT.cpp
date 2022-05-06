@@ -20,7 +20,7 @@
             linear Searh        O(n)
                 Transposition
                 Move to Front/Head
-            Binary Search       O(log n)    *Must be sorted and has three elements
+            Binary Search       O(log n)    *Must be sorted , every element is unique
 
             *Sequential Search is the best we can use for find a value in an unsorted array
             *Binary Search is the best we can use for find a value in a sorted array
