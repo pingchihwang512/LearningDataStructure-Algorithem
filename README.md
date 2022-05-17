@@ -1,9 +1,11 @@
 # LearningDataStructure-Algorithem
--This repository is for readers to review my summary of the data structure and algorithem in C langauge from "Mastering Data Structures & Algorithms using C and C++".
+- This repository is my summary of the following resource
+  1. the data structure and algorithem in C langauge from "Mastering Data Structures & Algorithms using C and C++".
+  2. labuladong/fucking-algorithm
+  3. youngyangyang04/leetcode-master
+  4. LeetCode 101: A LeetCode Grinding Guide (C++ Version) by Chang Gao
 
--Most of the resources are keep in note file, and it include the pdf file and the source code with comment.
-
--Special thanks to the instructor Abdul Bari
+- Appriciates to the instructor Abdul Bari, labuladong, youngyangyang04, Chang Gao 
 
 ---
 * [Program and Main Memory](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/1_Program%26Main%20Memory)
