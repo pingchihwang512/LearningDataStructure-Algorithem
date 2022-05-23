@@ -37,6 +37,11 @@
         0 <= nums.length <= 100
         0 <= nums[i] <= 50
         0 <= val <= 100
+
+    Hints: We can use two-pointers method when we can only modify the input array in-place.
+           First, imagine each pointer has their own array. 
+           Fast pointer iterates for examining all the element of the input array
+           Slow pointer stores unmatch element from first pointer examining and move to next index 
 */
 #include <vector>
 using namespace std;
@@ -47,7 +52,8 @@ public:
         int slowIndex = 0;
         for (int fastIndex = 0; fastIndex < nums.size(); fastIndex++) {
             if (nums[fastIndex] != val) {
-                nums[slowIndex++] = nums[fastIndex];
+                nums[slowIndex] = nums[fastIndex];
+                slowIndex++;
             }
         }
         return slowIndex;
