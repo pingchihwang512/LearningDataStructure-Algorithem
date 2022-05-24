@@ -13,9 +13,8 @@
         nums is sorted in non-decreasing order.
 
     Hint: 
-        For the "sorted array" with elements can be integer, 
-        we know that the max number of square elements will be either the most left index or the most right index.
-        Two pointer  
+        Observe the given array "sorted in non-decreasing order"
+        Notice the max number of square elements will be either the most left index or the most right index.
 */
 #include <vector>
 using namespace std;
