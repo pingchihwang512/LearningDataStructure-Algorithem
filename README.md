@@ -27,6 +27,6 @@
     - [Two Pointers]() - NA
       - [26]() , [27](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/twoPointers/27_removeElement.cpp) , [167]() , [283]() , [977]()  
     - [Window]() - NA
-      - [209]() , [438]() , [567]() 
+      - [209]()
   
 * [LinkedList](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/6_linkedList)
