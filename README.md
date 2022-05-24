@@ -25,7 +25,7 @@
     - [Negate](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/evaluate%26Negate) - Knowing that "Given an array nums of n integers where nums[i] is in the range [1, n]"
       - [41](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/evaluate%26Negate/41_firstMissingPositive.cpp) , [442](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/evaluate%26Negate/442_findAllDuplicatesInArray.cpp) , [448](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/evaluate%26Negate/448_allNumbersDisappearedInArray.cpp)  
     - [Two Pointers]() - NA
-      - [26]() , [27](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/twoPointers/27_removeElement.cpp) , [167]() , [283]() , [344]() , [977]()  
+      - [26]() , [27](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/twoPointers/27_removeElement.cpp) , [167]() , [283]() , [977]()  
     - [Window]() - NA
       - [3]() , [76]() , [209]() , [438]() , [567]() 
   
