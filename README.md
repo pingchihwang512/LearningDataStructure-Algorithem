@@ -8,7 +8,7 @@
   Appriciates to the instructor Abdul Bari, labuladong, youngyangyang04, Chang Gao 
 
 ---
-* [Program and Main Memory](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/1_Program%26Main%20Memory)
+* [Program and Main Memory](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/1_Program%26Main%20Memory/1_Program%26Main%20Memory.pdf)
 * [Introduction to data structure](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/2_Introduction%20of%20data%20structure)
 * [OOP APT API](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/3_OOP%20ADT%20API)
 * [Recursion](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/4_Recursion)
