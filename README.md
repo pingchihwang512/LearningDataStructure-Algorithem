@@ -10,7 +10,7 @@
 ---
 * [Program and Main Memory](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/1_Program%26Main%20Memory/1_Program%26Main%20Memory.pdf)
 * [Introduction to data structure](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/2_Introduction%20of%20data%20structure/2_Introduction%20of%20data%20structure.pdf)
-* [OOP APT API](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/3_OOP%20ADT%20API)
+* [OOP APT API](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/3_OOP%20ADT%20API/3_OOP%20ADT%20API.pdf)
 * [Recursion](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/4_Recursion)
 
 * [Array](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/5_Array)
