@@ -24,9 +24,9 @@
       - [34](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/binarySearch/34_findFirstLastPositionElementInSortedArray.cpp) , [410](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/binarySearch/410_splitArrayLargestSum.cpp) , [704](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/binarySearch/704_binarySearch.cpp) , [875](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/binarySearch/875_kokoEatingBananas.cpp) , [1011](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/binarySearch/1011_capacityShipPackagesWithinDDays.cpp) 
     - [Negate](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/evaluate%26Negate) - Knowing that "Given an array nums of n integers where nums[i] is in the range [1, n]"
       - [41](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/evaluate%26Negate/41_firstMissingPositive.cpp) , [442](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/evaluate%26Negate/442_findAllDuplicatesInArray.cpp) , [448](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/evaluate%26Negate/448_allNumbersDisappearedInArray.cpp)  
-    - [Two Pointers]() - NA
-      - [5]() , [26]() , [27]() , [83]() , [167]() , [283]() , [344]() , [977]()  
+    - [Two Pointers]() - We can use two-pointers method when we can only modify the input array in-place.
+      - [26]() , [27](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/twoPointers/27_removeElement.cpp) , [167]() , [283]() , [977]()  
     - [Window]() - NA
-      - [3]() , [76]() , [209]() , [438]() , [567]() 
+      - [209]()
   
 * [LinkedList](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/6_linkedList)
