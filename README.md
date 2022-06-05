@@ -29,5 +29,5 @@
       - [209](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/blob/main/Data%20Strucute%20and%20Algorithem/Note/5_Array/LeetCode/sliding%20window/209_minimumSizeSubarraySum.cpp)
   
 * [LinkedList](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/6_linkedList)
-* [String]()
+* [String](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/7_String)
 * [Recursion](https://github.com/pingchihwang512/LearningDataStructure-Algorithem/tree/main/Data%20Strucute%20and%20Algorithem/Note/4_Recursion)
