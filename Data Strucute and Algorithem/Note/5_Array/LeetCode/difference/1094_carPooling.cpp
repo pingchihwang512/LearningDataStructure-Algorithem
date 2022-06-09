@@ -29,26 +29,30 @@ using namespace std;
 class Solution {
 public:
     bool carPooling(vector<vector<int>>& trips, int capacity) {
-        vector<int> result = vector<int>(1000,0);
+        vector<int> temp = vector<int>(1000,0);
         bool ans = true;
+        
         for(auto v: trips){
+            int value = v[0];
             int start = v[1];
             int end = v[2];
-            int value = v[0];
             
-            result[start] += value;
+            temp[start] += value;
             
             if(end+1<1000){
-                result[end+1] -= value;
+                temp[end] -= value;
             }
         }
         
-        for(int i = 1; i<result.size();i++){
-            result[i] = result[i] + result [i-1];
-            if(result[i]>capacity){
+        for(int i = 0; i < temp.size()-1;i++){
+            if(i>0){
+                temp[i] = temp[i] + temp[i-1];  
+            }
+            
+            if(temp[i]>capacity){
                 ans = false;
                 return ans;
-            }
+            } 
         }
         return ans;
     }
