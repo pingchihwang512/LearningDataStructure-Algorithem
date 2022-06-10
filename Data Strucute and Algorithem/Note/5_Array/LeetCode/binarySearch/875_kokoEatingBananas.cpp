@@ -28,25 +28,47 @@
 #include <vector>
 using namespace std;
 
-// Koko like to eat slowly
 class Solution {
+    // Helper function which returns the number of hours required to consume the piles for given K
+    int hoursRequired(const vector<int> &piles, int k)
+    {
+        int h = 0;
+        if(k == 0) return INT_MAX;
+        for(int i : piles)
+        {
+            if(i % k != 0)
+            {
+                h++;
+            }
+            h += (i / k);
+        }
+        return h;
+    }
+    
 public:
     int minEatingSpeed(vector<int>& piles, int H) {
-        int low = 1, high = 1000000000, k = 0;
-        while (low <= high) {
-            k = low + ((high-low) / 2);
-            int h = 0;
-            for (int i = 0; i < piles.size(); i ++) 
-                h += ceil(1.0 * piles[i] / k);
-            
-            // h > H means Koko did not finish before H, try eat faster (try bigger k)
-            if (h > H)
-                low = k + 1;
-
-            // h <= H means koko finish before H hour and meet the requirement speed, try smaller k to find min speed.
-            else
-                high = k - 1;
+        long long sum = 0;
+        int mx = 0;
+        for(int i = 0; i < piles.size(); i++)
+        {
+            sum += piles[i];
+            mx = max(mx, piles[i]);
         }
-        return low;
+        int l = sum / H, r = mx, ans;
+        while(l < r)
+        {
+            int mid = l + (r - l) / 2;
+            int ans = hoursRequired(piles, mid);
+			// If hours required is greater than our limit, ignore mid
+            if(ans > H)
+            {
+                l = mid + 1;
+            }
+            else
+            {
+                r = mid;
+            }
+        }
+        return r;
     }
 };
